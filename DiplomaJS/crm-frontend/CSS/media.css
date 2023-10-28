@@ -1,0 +1,78 @@
+@media (max-width: 1024px){
+    .header__container {
+        padding-top: 18px;
+        padding-bottom: 17px;
+    }
+
+    .header__form {
+        padding-left: 20px;
+    }
+
+    .clients__heading {
+        padding-top: 15px;
+        margin-bottom: 20px;
+    }
+
+    .display-info__item--name {
+        padding-left: 43px;
+    }
+
+    .display-info {
+        padding-left: 15px;
+        
+    }
+    .display-info__item--create {
+        padding-right: 70px;
+        padding-left: 50px;
+       
+    }
+
+    .display-info {
+        padding-left: 20px;
+        margin-bottom: 5px;
+    }
+
+    .clients__full-name {
+        padding-left: 15px;
+    }
+
+   
+    
+
+    .container{
+        padding-left: 20px;
+    }
+}
+
+@media all and (max-width: 500px) {
+    .modal__content {
+        max-width: 375px;
+    }
+
+    .modal__form {
+        width: 315px;
+    }
+
+    .contact {
+        width: 315px;
+    }
+}
+
+@media all and (max-width: 390px) {
+    .modal__content {
+        max-width: 315px;
+    }
+
+    .modal__form {
+        width: 255px;
+    }
+
+    .contact {
+        width: 280px;
+    }
+
+    .delete-modal__content {
+        min-width: 270px;
+    }
+    
+}
